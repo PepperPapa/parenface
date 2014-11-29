@@ -5,6 +5,8 @@ Today Jonas Bernoulli kindly merged `parenface` into `paren-face`.
 
 The new project is [here](https://github.com/tarsius/paren-face).
 
+This project is now **deprecated**.
+
 ===
 
 Dave Pearson <davep@davep.org> released the excellent parenface package which
