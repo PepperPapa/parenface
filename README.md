@@ -1,14 +1,6 @@
 parenface
 =========
 
-Today Jonas Bernoulli kindly merged `parenface` into `paren-face`.
-
-The new project is [here](https://github.com/tarsius/paren-face).
-
-This project is now **deprecated**.
-
-===
-
 Dave Pearson <davep@davep.org> released the excellent parenface package which
 fontifies brackets in Emacs [here] (http://www.davep.org/emacs/parenface.el).
 Boris Schaefer <boris@uncommon-sense.net> is cited as the source in the
