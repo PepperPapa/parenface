@@ -1,6 +1,9 @@
 parenface
 =========
+# DEPRECATED
 
+As of <span class="timestamp-wrapper"><span class="timestamp">&lt;2014-12-17 Wed&gt;</span></span>, as captured in [this discussion](https://github.com/grettke/parenface/pull/8#issuecomment-67304172), this package **has been deprecated** with the intent that its functionality be provided instead by [paren-face](https://github.com/tarsius/paren-face).
+=========
 Dave Pearson <davep@davep.org> released the excellent parenface package which
 fontifies brackets in Emacs [here] (http://www.davep.org/emacs/parenface.el).
 Boris Schaefer <boris@uncommon-sense.net> is cited as the source in the
